@@ -1,6 +1,6 @@
 # Justin Malcolm
 
-**Cloud & DevOps consultant** 🇨🇦 — owner of [Apollo Technology Consulting](https://apollotech.ca)
+**Cloud & DevOps consultant** 🇨🇦 — owner of [Apollo Technology Consulting](https://www.apollotech.ca/)
 
 I design secure, scalable, cost-efficient infrastructure on **Microsoft Azure**, following the Cloud Adoption Framework and Well-Architected principles. I'm IaC-first, obsessed with automation, and a firm believer that the best infrastructure is the kind developers never have to think about.
 
@@ -27,6 +27,6 @@ AI made creation cheap and accountability expensive. I build the tooling and inf
 
 - **Web:** [justinmalcolm.com](https://justinmalcolm.com)
 - **LinkedIn:** [in/jom](https://www.linkedin.com/in/jom/)
-- **Consulting Engagment:** [Apollo Technology Consulting](https://apollotech.ca)
+- **Consulting Engagment:** [Apollo Technology Consulting](https://www.apollotech.ca/)
 
 Always happy to talk Azure architecture, IaC, identity governance, or where cloud security is heading.
